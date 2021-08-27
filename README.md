@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xavierfiguls
-- 🌱 I’m currently learning Python programming language
+- 🌱 I’m currently learning Python Programming Language
 
 
 <!---
